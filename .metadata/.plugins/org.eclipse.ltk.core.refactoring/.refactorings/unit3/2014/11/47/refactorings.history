@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;MyArrayList.java&apos; to &apos;ShangJi/src/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;unit3&apos;&#x0D;&#x0A;- Destination element: &apos;ShangJi/src/(default package)&apos;&#x0D;&#x0A;- Original element: &apos;MyArrayList.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="=ShangJi/src&lt;" element1="MyArrayList.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1416473447920" units="0" version="1.0"/>
+</session>

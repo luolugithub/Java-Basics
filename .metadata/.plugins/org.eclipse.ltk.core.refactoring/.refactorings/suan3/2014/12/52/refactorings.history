@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Convert local variable &apos;suan3.Dijkstra2.main().weight1&apos; in &apos;suan3.Dijkstra2.main()&apos; to field&#x0D;&#x0A;- Original project: &apos;suan3&apos;&#x0D;&#x0A;- Original element: &apos;suan3.Dijkstra2.main().weight1&apos;&#x0D;&#x0A;- Field name: &apos;weight1s&apos;&#x0D;&#x0A;- Initialize field in method&#x0D;&#x0A;- Declared visibility: &apos;private&apos;&#x0D;&#x0A;- Declare field &apos;static&apos;" description="Convert local variable &apos;weight1&apos; to field" final="false" flags="2" id="org.eclipse.jdt.ui.promote.temp" initialize="1" input="/src&lt;suan3{Dijkstra2.java" name="weight1s" selection="138 150" stamp="1419657489117" static="true" version="1.0" visibility="2"/>
+</session>

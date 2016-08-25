@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Timer"/>
+<fullyQualifiedTypeName name="java.util.TimerTask"/>
+<fullyQualifiedTypeName name="java.util.ArrayDeque"/>
+<fullyQualifiedTypeName name="java.util.AbstractCollection"/>
+<fullyQualifiedTypeName name="java.util.AbstractList"/>
+<fullyQualifiedTypeName name="javax.swing.text.html.HTMLDocument.Iterator"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.io.FilenameFilter"/>
+<fullyQualifiedTypeName name="上机2.Logger"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.io.DataOutputStream"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="java.awt.Frame"/>
+<fullyQualifiedTypeName name="javax.swing.JLabel"/>
+<fullyQualifiedTypeName name="javax.swing.JButton"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="FlowLayout_布局管理器"/>
+<fullyQualifiedTypeName name="javax.swing.JFrame"/>
+<fullyQualifiedTypeName name="In"/>
+</qualifiedTypeNameHistroy>
